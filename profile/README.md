@@ -12,6 +12,16 @@ Contact: contact@creditplainly.com
 - Credit Report Disputes: https://www.creditplainly.com/credit-report-disputes
 - Resources: https://www.creditplainly.com/resources
 
+## Public guide maps on GitHub
+
+These repositories are plain-English maps. They link to Credit Plainly articles and tools. They are not legal advice, financial advice, or credit repair services.
+
+- Credit Plainly resources hub: https://github.com/creditplainly/credit-plainly-resources  
+- Credit report dispute starter kit: https://github.com/creditplainly/credit-report-dispute-starter-kit  
+- Credit score learning path: https://github.com/creditplainly/credit-score-learning-path  
+- Credit report glossary map: https://github.com/creditplainly/credit-report-glossary-map  
+- Credit monitoring basics guide: https://github.com/creditplainly/credit-monitoring-basics-guide  
+
 ## What We Publish
 
 Credit Plainly focuses on educational guides, checklists, glossaries, and tools that help consumers understand credit information without quick-fix promises.
