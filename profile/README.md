@@ -82,8 +82,8 @@ Full maintainer table: [RESOURCE_REPO_MAP.md](RESOURCE_REPO_MAP.md).
 
 ## What we do not promise
 
-- No guaranteed score increases, deletions, approvals, or timelines.
-- No “erase bad credit fast” or similar marketing language.
+- No promises about score increases, deletions, approvals, or timelines.
+- No quick-fix credit marketing slogans.
 - No credit repair service positioning—we explain consumer rights and workflows, not paid dispute filing on your behalf.
 - No outcome predictions for investigations, disputes, or fraud recovery.
 - Accurate negative information generally stays on a report until it ages off under applicable rules; disputing accurate data is not a lawful shortcut.
@@ -107,7 +107,7 @@ Bureau dispute portals change their UI; each dispute repo lists current entry po
 
 ## Contact and website
 
-**Website:** [https://www.creditplainly.com](https://www.creditplainly.com)  
+**Website:** https://www.creditplainly.com  
 **Email:** contact@creditplainly.com  
 **Organization repos:** [github.com/creditplainly](https://github.com/creditplainly)
 
