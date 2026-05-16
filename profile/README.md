@@ -48,24 +48,30 @@ Repositories are grouped by topic. Each includes docs, checklists, or data you c
 | Repository | Focus |
 |------------|--------|
 | [credit-report-glossary-map](https://github.com/creditplainly/credit-report-glossary-map) | Terms by report section; links to site glossaries |
+| [free-credit-report-resource-map](https://github.com/creditplainly/free-credit-report-resource-map) | Official free report sources, report vs score basics, review cadence |
 
 ### Disputes and accuracy review
 
 | Repository | Focus |
 |------------|--------|
 | [credit-report-dispute-starter-kit](https://github.com/creditplainly/credit-report-dispute-starter-kit) | Step-by-step dispute study path, evidence checklists, bureau starting points |
+| [credit-report-error-checklist-kit](https://github.com/creditplainly/credit-report-error-checklist-kit) | Checklists and notes for reviewing possible report errors before disputing |
+| [credit-bureau-dispute-resource-map](https://github.com/creditplainly/credit-bureau-dispute-resource-map) | Bureau dispute entry points with official links and prep checklists |
 
 ### Credit scores and habits
 
 | Repository | Focus |
 |------------|--------|
 | [credit-score-learning-path](https://github.com/creditplainly/credit-score-learning-path) | Ordered lessons on scores, models, factors, and building credit |
+| [credit-utilization-learning-kit](https://github.com/creditplainly/credit-utilization-learning-kit) | Utilization math, balances vs limits, and score factor context |
+| [secured-credit-card-education-map](https://github.com/creditplainly/secured-credit-card-education-map) | How secured cards work; no product rankings or issuer pitches |
 
 ### Monitoring and fraud awareness
 
 | Repository | Focus |
 |------------|--------|
 | [credit-monitoring-basics-guide](https://github.com/creditplainly/credit-monitoring-basics-guide) | What monitoring can and cannot do; alerts vs full reports |
+| [identity-theft-credit-report-starter-kit](https://github.com/creditplainly/identity-theft-credit-report-starter-kit) | Warning signs, action logs, freezes/alerts/disputes with official sources first |
 
 Full maintainer table: [RESOURCE_REPO_MAP.md](RESOURCE_REPO_MAP.md).
 
