@@ -14,7 +14,7 @@ On the Credit Plainly website we maintain:
 
 On GitHub we publish **open resource maps**: checklists, study paths, glossary tables, and links to **official** government and bureau pages. Each repository is meant to stand on its own as a learning aid.
 
-We do **not** publish lender rankings, credit repair sales funnels, or paid partner placements.
+We do **not** publish lender rankings, credit repair promotions, or paid partner placements.
 
 ---
 
